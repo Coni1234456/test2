@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/Coni1234456/test2#readme",
   "dependencies": {
-    "aws-sdk": "^2.652.0"
+    "aws-sdk": "^2.814.0"
   }
 }
